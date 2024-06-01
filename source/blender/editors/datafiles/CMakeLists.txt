@@ -191,6 +191,7 @@ set(ICON_NAMES
   library_data_broken
   boids
   strands
+  brush_data_var
   greasepencil
   line_data
   library_data_override
